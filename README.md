@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Msadek2020
+- 👀 I’m interested in project management...
+- 🌱 I’m currently learning Python..
